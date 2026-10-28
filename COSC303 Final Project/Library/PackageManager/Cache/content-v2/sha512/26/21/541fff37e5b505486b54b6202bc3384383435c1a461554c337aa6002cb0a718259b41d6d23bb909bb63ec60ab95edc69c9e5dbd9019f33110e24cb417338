@@ -1,0 +1,1 @@
+{"status":"Valid","reason":"Signature is ok","isLegacy":false,"attestation":{"version":1,"format":"archive","integrity":"sha256-XMBs8vHIAXbC/V1EMj5fQVGMnkpsZiletpUOqWOXF5U=","packageName":"com.unity.probuilder","packageVersion":"6.1.4","publishingChannel":"unity","entitlementKeys":[],"artifactType":"upmPackage"}}

@@ -49,6 +49,16 @@
       "source": "registry",
       "testable": false
     },
+    "com.unity.probuilder@6.1.4": {
+      "name": "com.unity.probuilder",
+      "displayName": "ProBuilder",
+      "resolvedPath": "C:\\Users\\jccsp\\Documents\\GitHub\\COSC303 Project\\COSC303 Final Project\\Library\\PackageCache\\com.unity.probuilder@7ffe746297d0",
+      "fingerprint": "7ffe746297d03335276b9d386e2b23303a216e94",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "6.1.4",
+      "source": "registry",
+      "testable": false
+    },
     "com.unity.render-pipelines.universal@17.6.0": {
       "name": "com.unity.render-pipelines.universal",
       "displayName": "Universal Render Pipeline",
@@ -396,6 +406,16 @@
       "fingerprint": "561422b74439f8598f45a82c4935ca6f1d86f212",
       "version": "17.6.0",
       "source": "builtin",
+      "testable": false
+    },
+    "com.unity.settings-manager@2.1.1": {
+      "name": "com.unity.settings-manager",
+      "displayName": "Settings Manager",
+      "resolvedPath": "C:\\Users\\jccsp\\Documents\\GitHub\\COSC303 Project\\COSC303 Final Project\\Library\\PackageCache\\com.unity.settings-manager@0b8638c5ce86",
+      "fingerprint": "0b8638c5ce86009d785da17b17aaf629047f64ce",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.1.1",
+      "source": "registry",
       "testable": false
     },
     "com.unity.test-framework@1.8.0": {
